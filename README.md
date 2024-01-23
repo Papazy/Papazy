@@ -25,7 +25,7 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">🚀 About me</h2>
 
 ###
 ### Hi there, I'm Fajry Ariansyah! 👋
@@ -33,8 +33,8 @@
 - 🎓 I'm a student at Universitas Syiah Kuala, passionate about Programming.
 - 💻 I'm diving into Frontend, Backend, and Mobile technologies.
 - 🌱 Currently learning Golang and React Native.
-- 🎯 Goals: Mastering the art of coding and creating seamless user experiences.
-- 🎮 Fun fact: Coding and gaming are my favorite pastimes!
+- 🎯 Goals: Mastering the art of coding.
+- 🎮 Fun fact: Coding and gaming are my favorite
 
 Let's connect and collaborate on exciting projects! 🚀
 
