@@ -1,11 +1,23 @@
 <h1 align="center">Welcome to My Profile👋!</h1>
 
+<div align="center">
+  
+<a href="">[![visitor](https://visitor-badge.laobi.icu/badge?page_id=Papazy.Papazy)](https://github.com/Papazy)</a>
+
+
+
+</div>
+<div align="center">
+
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=1000&pause=1000&repeat=false&random=false&width=900&height=60&lines=I+am+)](https://git.io/typing-svg) [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=4000&pause=1000&random=false&width=900&height=60&lines=+an+undergradute+student;frontend+developer;backend+developer;mobile+developer)](https://git.io/typing-svg)
+
+</div>
+
 
 ###
 
 <img align="right" height="150" src="https://i.imgflip.com/8da8yv.gif"  />
 
-<a href="">[![visitor](https://visitor-badge.laobi.icu/badge?page_id=Papazy.Papazy)](https://github.com/Papazy)</a>
 
 ###
 
